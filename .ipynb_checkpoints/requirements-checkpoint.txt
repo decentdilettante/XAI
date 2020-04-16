@@ -145,10 +145,10 @@ smart-open==1.11.1
 spacy==2.2.4
 sqlparse==0.3.1
 srsly==1.0.2
-tensorboard==1.14.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
-tensorflow-gpu==1.15.0
+tensorboard==1.15.2
+tensorflow==1.15.2
+tensorflow-estimator==1.15.2
+tensorflow-gpu==1.15.2
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
