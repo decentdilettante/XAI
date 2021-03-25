@@ -125,7 +125,7 @@ pytz==2019.3
 PyWavelets==1.1.1
 pywin32==227
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.0
 regex==2020.4.4
 requests==2.23.0
