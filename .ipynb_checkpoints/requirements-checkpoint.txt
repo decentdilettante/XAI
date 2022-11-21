@@ -146,7 +146,7 @@ spacy==2.2.4
 sqlparse==0.3.1
 srsly==1.0.2
 tensorboard==1.15.2
-tensorflow==1.15.2
+tensorflow==2.9.3
 tensorflow-estimator==1.15.2
 tensorflow-gpu==1.15.2
 termcolor==1.1.0
